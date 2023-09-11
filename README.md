@@ -2,7 +2,7 @@
 
 This is a simple UI Personal Details App that was created with the help of webView.
 
-#Setup
+####### Setup
 
 
 Download the release apk package. No 3rd party Libraries were used.
